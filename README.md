@@ -19,7 +19,7 @@ The target budget for this build is Php 100,000 (+5%), which is considered an up
 
 ---
 
-## Draft Build 2. (PCPartPicker)
+## 2. Draft Build (PCPartPicker)
 
 This build uses **PCPartPicker System Builder** for compatibility check.  
 PCPartPicker Permalink:   
