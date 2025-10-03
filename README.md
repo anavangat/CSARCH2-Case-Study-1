@@ -47,7 +47,7 @@ PCPartPicker Permalink:
 
 This build uses **locally available parts** from Manila vendors.  
 Google spreadsheet link: [https://docs.google.com/spreadsheets/d/1z26r0rfP-rU6WTYmYOkfHtqXiARJbbtjRJ6rl9CgUkI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1z26r0rfP-rU6WTYmYOkfHtqXiARJbbtjRJ6rl9CgUkI/edit?usp=sharing)   
-PCPartPicker Permalink (to check for compatibility): [https://pcpartpicker.com/list/b7VKwY](https://pcpartpicker.com/list/b7VKwY)
+PCPartPicker Permalink (to check for compatibility): [https://pcpartpicker.com/list/nRcc8Q](https://pcpartpicker.com/list/nRcc8Q)
 
 ### Local Build Table
 
