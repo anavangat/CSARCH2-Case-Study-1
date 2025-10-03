@@ -101,7 +101,7 @@ Through this case study, we learned how to check for part compatibility, such as
 
 ## 7. Video Pitch
 
-https://youtu.be/P1U3kKm_Z7E
+[https://youtu.be/mlE0bGHbLks](https://youtu.be/mlE0bGHbLks)
 
 ## 8. References
 
