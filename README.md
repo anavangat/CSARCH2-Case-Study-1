@@ -70,7 +70,7 @@ PCPartPicker Permalink (to check for compatibility): [https://pcpartpicker.com/l
 
 ## 4. Compatibility Justification
 
-- **CPU + Motherboard**: Gigabyte Z790 Aorus Elite motherboard supports Intel Core 14th-generation processors (our build is a Intel Core i5-14600KF 14th Gen LGA 1700)  
+- **CPU + Motherboard**: Gigabyte Z790 Aorus Elite motherboard supports Intel Core 14th-generation processors (our build uses an Intel Core i5-14600KF 14th Gen LGA 1700)  
 - **CPU Cooler**: Compatible with CPU  
 - **RAM**: Motherboard has 4 DDR5 slots  
 - **GPU**: Fits inside the case  
